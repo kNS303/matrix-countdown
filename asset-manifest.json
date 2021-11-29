@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/matrix-countdown/static/css/main.a8858f5f.chunk.css",
+    "main.js": "/matrix-countdown/static/js/main.eceda1b0.chunk.js",
+    "main.js.map": "/matrix-countdown/static/js/main.eceda1b0.chunk.js.map",
+    "runtime-main.js": "/matrix-countdown/static/js/runtime-main.dee856b3.js",
+    "runtime-main.js.map": "/matrix-countdown/static/js/runtime-main.dee856b3.js.map",
+    "static/js/2.d2c7d7ec.chunk.js": "/matrix-countdown/static/js/2.d2c7d7ec.chunk.js",
+    "static/js/2.d2c7d7ec.chunk.js.map": "/matrix-countdown/static/js/2.d2c7d7ec.chunk.js.map",
+    "index.html": "/matrix-countdown/index.html",
+    "static/css/main.a8858f5f.chunk.css.map": "/matrix-countdown/static/css/main.a8858f5f.chunk.css.map",
+    "static/js/2.d2c7d7ec.chunk.js.LICENSE.txt": "/matrix-countdown/static/js/2.d2c7d7ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dee856b3.js",
+    "static/js/2.d2c7d7ec.chunk.js",
+    "static/css/main.a8858f5f.chunk.css",
+    "static/js/main.eceda1b0.chunk.js"
+  ]
+}
